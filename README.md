@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning PHP, Js, CSS, Java, Python, Kotlin
 - 💞️ I’m looking to collaborate on everything I can
-- 📫 How to reach me, easy, rafaelperez7461@gmail.com
+- 📫 How to reach me, easy, angel_rafael01@hotmail.com
 
 <!---
 rafaelperez01/rafaelperez01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
